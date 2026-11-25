@@ -1,0 +1,12 @@
+{
+  "name": "fonno",
+  "version": "1.0.0",
+  "description": "Bookkeeping for Norwegian companies: books, invoices and filings to Skatteetaten, from your agent.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "fonno": {
+      "type": "http",
+      "url": "https://fonno.no/mcp"
+    }
+  }
+}
